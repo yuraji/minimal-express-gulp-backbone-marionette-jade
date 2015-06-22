@@ -11,12 +11,14 @@ Minimal application workflow that uses:
 
 Express.js for backend
 
-run to start
+run to start:
+
 	node server.js
 
 Gulp for front-end workflow
 
 run to watch `/client/js/src` changes:
+
 	gulp
 
 
