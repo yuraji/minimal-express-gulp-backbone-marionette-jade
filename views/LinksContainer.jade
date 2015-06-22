@@ -1,0 +1,12 @@
+h1
+	| Links 
+	a.btn.btn-default#refresh(href="#links") Refresh
+#links
+	if server
+		table.table
+			each link in links
+				-var id = link.id
+				-var url = link.url
+				-var title = link.title
+				tr
+					include ./Link.jade
