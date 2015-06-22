@@ -9,20 +9,20 @@ Minimal application workflow that uses:
 - CoffeeScript
 
 
-Express.js for backend
+## Express.js for backend
 
 run to start:
 
 	node server.js
 
-Gulp for front-end workflow
+## Gulp for front-end workflow
 
 run to watch `/client/js/src` changes:
 
 	gulp
 
 
-# When run
+## When run
 
 Express will render jade templates server-side
 
