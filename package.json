@@ -1,6 +1,6 @@
 {
   "name": "minimal-express-gulp-backbone-marionette-jade",
-  "description": "couses outliner",
+  "description": "Minimal Express Backbone-Marionette Gulp Jade Application",
   "repository": {
     "type": "git",
     "url": "https://github.com/yuraji/minimal-express-gulp-backbone-marionette-jade.git"
