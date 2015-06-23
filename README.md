@@ -4,7 +4,7 @@ Minimal application workflow that uses:
 
 - Express.js
 - Jade for backend and frontend
-- Gulp for frontend workflow building
+- Gulp + Browserify for frontend workflow building
 - Backbone + Marionette (+ jQuery, + Underscore)
 - CoffeeScript
 
