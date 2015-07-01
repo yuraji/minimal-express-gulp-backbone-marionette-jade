@@ -1,6 +1,10 @@
 # Minimal Express Backbone-Marionette Gulp Jade Application
 
-Minimal application workflow that uses:
+[![Book session on Codementor](https://cdn.codementor.io/badges/book_session_github.svg)](https://www.codementor.io/yurio) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.coinbase.com/ylinnyk)
+[![Donate with Gratipay](https://img.shields.io/gratipay/yuraji.svg)](https://gratipay.com/~yuraji/)
+
+## Minimal application workflow that uses:
 
 - Express.js
 - Jade for backend and frontend
